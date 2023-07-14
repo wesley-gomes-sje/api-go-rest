@@ -18,7 +18,8 @@ Minha primeira API REST feita em Go.
 - Editar  personalidade
 - Listar  personalidades
 - Excluir personalidades
-
-### Próximas etapas:
 - Middleware
 - Integração com o front-end
+
+
+
